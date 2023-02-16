@@ -1,3 +1,4 @@
+// Name Cases:
 var name2 = 'my name is Ali';
 console.log(name2.toUpperCase());
 console.log(name2.toLowerCase());
